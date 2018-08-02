@@ -1,0 +1,108 @@
+{
+  "components": {
+    "login": {},
+    "signup": {},
+    "background": {},
+    "miniprofile": {},
+    "schoolWork": {},
+    "coordinatingHome": {},
+    "termsandconditions": {},
+    "topNav": {},
+    "validationOverlay": {},
+    "expertise": {},
+    "group": {},
+    "groupMethod": {},
+    "interests": {},
+    "others": {},
+    "passion": {},
+    "passionMap": {},
+    "places": {},
+    "teach": {},
+    "formbox": {},
+    "interestCard": {
+      "attributes": [
+        "connectDragSource",
+        "isDragging"
+      ],
+      "props": {
+        "connectDragSource": {
+          "type": {
+            "name": "func"
+          },
+          "required": false,
+          "description": ""
+        },
+        "isDragging": {
+          "type": {
+            "name": "bool"
+          },
+          "required": false,
+          "description": ""
+        }
+      }
+    },
+    "interestfield": {},
+    "yourInterests": {},
+    "basicInfoModal": {},
+    "profile": {},
+    "schoolWorkModal": {},
+    "question-options": {},
+    "senseOfCommunity": {},
+    "sociality": {},
+    "well-being": {},
+    "contactCard": {
+      "attributes": [
+        "connectDragSource",
+        "isDragging"
+      ],
+      "props": {
+        "connectDragSource": {
+          "type": {
+            "name": "func"
+          },
+          "required": false,
+          "description": ""
+        },
+        "isDragging": {
+          "type": {
+            "name": "bool"
+          },
+          "required": false,
+          "description": ""
+        }
+      }
+    },
+    "contactModel": {
+      "attributes": [
+        "connectDragSource",
+        "isDragging",
+        "contact"
+      ],
+      "props": {
+        "connectDragSource": {
+          "type": {
+            "name": "func"
+          },
+          "required": false,
+          "description": ""
+        },
+        "isDragging": {
+          "type": {
+            "name": "bool"
+          },
+          "required": false,
+          "description": ""
+        },
+        "contact": {
+          "type": {
+            "name": "object"
+          },
+          "required": false,
+          "description": ""
+        }
+      }
+    },
+    "map": {},
+    "socialHome": {}
+  }
+}
